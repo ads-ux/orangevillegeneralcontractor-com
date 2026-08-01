@@ -1,0 +1,25 @@
+# Orangeville General Contractor — General Contractor Services Leads, Orangeville, Ontario
+
+> Connects Orangeville, Ontario homeowners and businesses needing general contracting and renovation work with a single vetted, exclusive local contractor. Part of the WeProvideLeads network of local-service lead generation sites.
+
+This site is a lead-generation and referral service, not a contracting company itself. Requests submitted through the contact form are matched with one qualified, exclusive contractor serving the area.
+
+## Services
+- Home Renovations: Kitchens, bathrooms, basements, and whole-home makeovers handled from design through final walkthrough.
+- Additions & Extensions: Code-compliant home additions and bump-outs that blend seamlessly with your existing structure.
+- Framing & Structural: Load-bearing wall removal, floor systems, and structural modifications done to Ontario Building Code.
+- Basement Finishing: Transform an unfinished basement into liveable, permitted living space.
+- Kitchen & Bath Remodels: Full gut renovations or targeted updates — cabinetry, tile, plumbing rough-ins, and finishing.
+- General Repairs: From minor fixes to major repairs, one call covers it.
+
+## Service area
+Orangeville, Shelburne, Grand Valley, Erin, Mono, Caledon Village
+
+## Key pages
+- Home: https://orangevillegeneralcontractor.com/
+- Sitemap: https://orangevillegeneralcontractor.com/sitemap.xml
+
+## Contact
+- Phone: {{PHONE_DISPLAY}}
+- Email: hello@orangevillegeneralcontractor.com
+- Service area: Orangeville, Ontario, Canada
