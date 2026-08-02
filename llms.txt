@@ -20,6 +20,6 @@ Orangeville, Shelburne, Grand Valley, Erin, Mono, Caledon Village
 - Sitemap: https://orangevillegeneralcontractor.com/sitemap.xml
 
 ## Contact
-- Phone: {{PHONE_DISPLAY}}
+- Phone: (226) 400-5547
 - Email: hello@orangevillegeneralcontractor.com
 - Service area: Orangeville, Ontario, Canada
